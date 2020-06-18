@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import argparse
 import git
-import pudb
 import progressbar
 
 from collections import Counter
